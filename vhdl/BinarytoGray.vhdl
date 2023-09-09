@@ -1,0 +1,20 @@
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+USE IEEE.STD_LOGIC_ARITH.ALL;
+USE IEEE.STD_LOGIC_UNSIGNED.ALL;
+ 
+ENTITY BinarytoGray IS
+
+PORT( Output: OUT STD_LOGIC_VECTOR(3 DOWNTO 0);
+
+Input: IN STD_LOGIC_VECTOR(3 DOWNTO 0));
+
+END BinarytoGray;
+
+ARCHITECTURE B_G OF BinarytoGray IS
+BEGIN
+Output(3)<= Input(3);
+Output(2)<= Input(3) XOR Input(2);
+Output(1)<= Input(2) XOR Input(1);
+Output(0)<= Input(1) XOR Input(0);
+END B_G;
