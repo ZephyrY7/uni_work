@@ -6,9 +6,9 @@
 
 An interactive data collection tools with features:
     
-    - Guided procedure with chatbot
-    - Image Analysis
-    - Point-to-point measurements
+- Guided procedure with chatbot
+- Image Analysis
+- Point-to-point measurements
 
 ## Carbon-sensing drone
 
