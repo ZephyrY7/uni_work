@@ -2,7 +2,7 @@
 
 ## Smart glasses
 
-![smartglasses](smartglasses.jpg)
+![smartglasses](smartglasses/smartglasses.jpg)
 
 An interactive data collection tools with features:
     
@@ -14,4 +14,4 @@ An interactive data collection tools with features:
 
 A carbon sensing drone to detect carbon emission level over an area.
 
-![carbonsensingdrone](drone.png)
+![carbonsensingdrone](drone/drone.png)
