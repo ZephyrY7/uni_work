@@ -74,7 +74,7 @@ httptools==0.6.1
 httpx==0.25.1
 huggingface-hub==0.17.3
 humanfriendly==10.0
-idna==3.4
+idna==3.7
 importlib-metadata==6.11.0
 importlib-resources==6.1.1
 inspecta==0.1.3
