@@ -244,7 +244,7 @@ watchdog==3.0.0
 watchfiles==0.21.0
 webrtcvad==2.0.10
 websockets==12.0
-Werkzeug==3.0.1
+Werkzeug==3.0.3
 wrapt==1.16.0
 xxhash==3.4.1
 yarl==1.9.2
