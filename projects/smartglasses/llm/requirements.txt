@@ -91,7 +91,7 @@ jsonpointer==2.4
 jsonschema==4.20.0
 jsonschema-specifications==2023.11.2
 kiwisolver==1.4.5
-langchain==0.0.267
+langchain==0.1.0
 langdetect==1.0.9
 langsmith==0.0.65
 layoutparser==0.3.4
