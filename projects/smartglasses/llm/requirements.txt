@@ -198,7 +198,7 @@ SQLAlchemy==2.0.23
 sqlitedict==2.1.0
 st-annotated-text==4.0.1
 starlette==0.27.0
-streamlit==1.29.0
+streamlit==1.30.0
 streamlit-camera-input-live==0.2.0
 streamlit-card==1.0.0
 streamlit-embedcode==0.1.2
