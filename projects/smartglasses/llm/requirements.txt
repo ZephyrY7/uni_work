@@ -223,7 +223,7 @@ toolz==0.12.0
 torch==2.1.1+cu121
 torchaudio==2.1.1
 torchvision==0.16.1+cu121
-tornado==6.4
+tornado==6.4.1
 tox==4.11.4
 tqdm==4.66.3
 tqdm-multiprocess==0.0.11
